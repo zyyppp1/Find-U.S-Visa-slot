@@ -1,8 +1,8 @@
 [USVISA]
 ; Account and current appointment info from https://ais.usvisa-info.com
-USERNAME = zyypppp@icloud.com
-PASSWORD = Apple@201818 
-SCHEDULE_ID = 37873966
+USERNAME = ####
+PASSWORD =####
+SCHEDULE_ID = ####
 MY_SCHEDULE_DATE = 2024-03-27
 ; English - United Kingdom
 COUNTRY_CODE = en-gb
